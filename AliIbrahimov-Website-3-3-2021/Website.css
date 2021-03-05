@@ -1,0 +1,285 @@
+/* .first{
+   
+    background-color:#333333;
+
+
+    width: 180 px;
+    height: 170px;
+ 
+
+
+} */
+
+/* #C0BAB6; */
+
+
+header{
+    background-color:#333333;
+
+
+     width: 180 px;
+    height: 170px; 
+} 
+
+
+
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+   
+    }
+
+a{
+    color:  #C0BAB6;
+    text-decoration: none;
+    
+    
+}
+a:hover{
+    color:darkorange;
+}
+h1{
+    color:  #C0BAB6;
+    position: absolute;
+    top: 6%;
+    left: 5%;
+    font-size: 37px;
+
+}
+h2{
+    color:  #C0BAB6;
+    position: absolute;
+    top: 11.5%;
+    left: 5%;
+
+}
+.but{
+    background-color:orange;
+    color: whitesmoke;
+    border: 1px solid black;
+    font-weight: bold;
+    position: absolute;
+    top:14%;
+    right: 5%;
+    width: 80px;
+    height: 30px;
+}
+.in{
+    background-color: #333333;
+    color: #C0BAB6;
+    border: 1px solid #C0BAB6;
+    position: absolute;
+    right: 10%;
+    top: 14%;
+    height: 30px;
+    
+}
+
+.birinci{
+    background-color: #333333;
+    color: #C0BAB6;
+    width: 700px;
+    height: 350px;
+    position: absolute;
+    top: 24%;
+    left: 5%;
+}
+
+h3{
+    font-size: 50px;
+  font-weight: bold  ;  
+    position:absolute ;
+    left: 32%;
+    top:25%
+}
+
+.second{
+    width: 450px;
+    height: 350px;
+    background-color: #333333;
+    position: absolute;
+    right: 0.3%;
+    top: 24%;
+}
+h4{
+    color:#C0BAB6;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color:#C0BAB6;
+    font-size: 20px;
+}
+.ilklink{
+    color: darkorange;
+    position: absolute;
+    right: 2%;
+    bottom: 15%;
+}
+ .third{
+     width: 700px;
+     position: absolute;
+     top: 60%;
+     left: 5%;
+    
+ }
+ h5{
+     font-size: 30px;
+     color:#C0BAB6;
+ }
+
+ .ali1{
+     color: darkorange;
+ }
+
+ body{
+     background-color: grey;
+ }
+ .alii1{
+     color: darkorange;
+     position: absolute;
+     right: 5%;
+     bottom: 15%;
+ }
+
+ .fourth{
+    width: 450px;
+    height: 350px;
+    position: absolute;
+    right:0%;
+    top: 64%;
+ }
+
+ h6{
+    font-size: 30px;
+    color:#C0BAB6;
+ }
+
+.tablo{
+    width: 400px;
+    height: 100px;
+    background-color: darkorange;
+}
+
+ .birincitablo{
+     width: 630px;
+     height: 270px;
+     position: absolute;
+     bottom:-35%;
+     left: 5%;
+    
+ }
+ .sonad{
+    font-size: 25px;
+    color:#C0BAB6;
+    position: absolute;
+    top: 20%;
+    left: 0%;
+ }
+
+ .contain{
+     width: 140px;
+     height: 120px;
+     background-color: black;
+     position: absolute;
+     bottom: 8%;
+     border: 7px solid white;
+ }
+ 
+.finalfinal{
+    font-size: 22px;
+    position: absolute;
+    bottom: 15%;
+    left: 2%;
+}
+
+ h6{
+     font-size: 22px;
+     position: absolute;
+     bottom: 5%;
+     left: 2%;
+ }
+ .new{
+    font-size:20px;
+    position: absolute;
+    right: 3%;
+    bottom: 30%;
+ }
+
+ .new1{
+    font-size:20px;
+    position: absolute;
+    right: 0%;
+    bottom: 20%;
+ }
+
+ .sonli{
+     color:darkorange;
+     position: absolute;
+     bottom: 5%;
+     right: 5%;
+ }
+
+ .birincitablo1{
+    width: 630px;
+    height: 270px;
+    position: absolute;
+    bottom:-35%;
+    left: 45%;
+ }
+
+ .birincitablo2{
+    width: 630px;
+    height: 270px;
+    position: absolute;
+    bottom:-60%;
+    left: 45%;
+ }
+ .birincitablo3{
+    width: 630px;
+    height: 270px;
+    position: absolute;
+    bottom:-60%;
+    left: 5%;
+ }
+ .foot{
+     width:1895px;
+     height: 100px;
+     background-color:#333333; ;
+     position: absolute;
+     bottom: -75%;
+ }
+
+ .end{
+     position: absolute;
+     font-size: 18px;
+     left: 20%;
+ }
+
+ .end1{
+    position: absolute;
+    font-size: 18px;
+    right: 15%;
+}
+
+.lasttouch{
+    width: 
+}
+.lastlast{
+    position: absolute;
+    right: 10.5%;
+    bottom: 20%;
+}
+
+.alii{
+    color:darkorange;
+    position: absolute;
+    right: 2% ;
+    bottom: 5%;
+}
+
+.fourth p{
+    position: absolute;
+    bottom: 28%;
+}
